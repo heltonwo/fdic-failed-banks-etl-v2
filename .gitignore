@@ -12,6 +12,8 @@ __pycache__/
 # Dados locais e Variáveis de Ambiente
 data/
 .env
+.env.*
+!.env.example
 
 # Pastas de configuração do VS Code (opcional)
 .vscode/
